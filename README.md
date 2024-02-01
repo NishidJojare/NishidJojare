@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Advanced Python
 - 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/nishidjojare/
-- ✉️ Connect with me by Email: developer.nishid@gmail.com
+- ✉️ Contact me by Email: developer.nishid@gmail.com
 
 
 
